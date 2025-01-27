@@ -5,6 +5,7 @@ setup(
     version="0.1.0",   
     description="A versatile 2D camera library for top-down games using Pygame.",
     author="Clart",
+    author_email="lmk.kadlecek@gmail.com",
     url="https://github.com/ClartTheRoyalAcademyOfArt/Clamera",
     packages=find_packages(),
     install_requires=[
